@@ -3,10 +3,10 @@
 //
 // Version 1.0
 // Date  12/22/2017
-// Author ALBERTO LAURENZI
+// Author 
 // Milestone  1 - 2 - 3 - 4 - 5 - Completed
-// email: alaurenzi@myseneca.com
-// ID:150954162
+// email: 
+// ID:
 // Description
 //  - Explicit keyword for memeber function
 //  - Virtual Function
