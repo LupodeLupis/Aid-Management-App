@@ -3,10 +3,10 @@
 //
 // Version 1.0
 // Date 30/10/2017
-// Author ALBERTO LAURENZI
+// Author 
 // Milestone 1 - Completed
-// email: alaurenzi@myseneca.com
-// ID:150954162
+// email: 
+// ID:
 // Description
 //
 // Declaration and defintion of Class and member function including 
@@ -21,7 +21,7 @@
 // Revision History
 // -----------------------------------------------------------
 // Name               Date                 Reason
-// Alberto Laurenzi   24/11/2017           Ok from professor to use Optional Private Function*
+//                 24/11/2017           Ok from professor to use Optional Private Function*
 ///////////////////////////////////////////////////////////////////////////////////////
 
 
