@@ -3,7 +3,7 @@
 //
 // Version 1.0
 // Date 12/18/2017
-// Author 
+// Author ALBERTO LAURENZI
 // Milestone 4 - Completed
 // email: 
 // ID:
