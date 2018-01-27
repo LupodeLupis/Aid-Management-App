@@ -3,10 +3,10 @@
 //
 // Version 1.0
 // Date 12/11/2017
-// Author ALBERTO LAURENZI
+// Author 
 // Milestone 3 - Completed
-// email: alaurenzi@myseneca.com
-// ID:150954162
+// email: 
+// ID:
 // Description
 //  - Virtual pure functions
 // 
