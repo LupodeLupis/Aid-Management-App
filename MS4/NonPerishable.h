@@ -3,10 +3,10 @@
 //
 // Version 1.0
 // Date 12/18/2017
-// Author ALBERTO LAURENZI
+// Author 
 // Milestone 4 - Completed
-// email: alaurenzi@myseneca.com
-// ID:150954162
+// email: 
+// ID:
 // Description
 //  
 // 
@@ -34,7 +34,7 @@ namespace sict {
 	class NonPerishable : public Product {
 
 		char prod_type ;  // indicates the type of product  
-		char prod_sku[max_sku_length + 1]; // array that holds the product’s sku 
+		char prod_sku[max_sku_length + 1]; // array that holds the productâ€™s sku 
 		char* prod_name; // holds the name of the product
 		char prod_unit[max_unit + 1]; // array that holds the unit for the product 
 		int prod_onHand; // holds the current quantity on hand of the product
